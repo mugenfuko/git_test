@@ -1,0 +1,1 @@
+This is mugenfuko's first git project!
